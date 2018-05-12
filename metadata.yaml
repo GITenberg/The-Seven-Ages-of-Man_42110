@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '25875'
     url: http://www.gutenberg.org/2009/agents/25875
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42110#The-Seven-Ages-of-Man
 gutenberg_issued: '2013-02-16'
 gutenberg_type: Text
 identifiers:
